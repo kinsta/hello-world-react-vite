@@ -42,7 +42,7 @@ function App() {
                     </svg>
                 </a>
 
-                <a href="https://github.com/kinsta/hello-world-react" target="_blank" rel="noreferrer" className="kinsta-starter-link block rounded rounded-[4px] border pt-[24px] pb-[24px] pl-[24px] pr-[54px] border-kinsta-shadow relative transition-all delay-150 hover:bg-kinsta-shadow/60" >
+                <a href="https://github.com/kinsta/hello-world-react-vite" target="_blank" rel="noreferrer" className="kinsta-starter-link block rounded rounded-[4px] border pt-[24px] pb-[24px] pl-[24px] pr-[54px] border-kinsta-shadow relative transition-all delay-150 hover:bg-kinsta-shadow/60" >
                     <h3 className="text-white font-bold mb-4 text-[20px]">Download Starter</h3>
                     <p className="text-white/50 text-[16px]">Get started with React in a matter of minutes.</p>
                     
