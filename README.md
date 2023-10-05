@@ -1,7 +1,7 @@
 ![React](https://user-images.githubusercontent.com/2342458/234303761-7e0066a0-f043-4302-8784-756614761917.png)
 # Kinsta - Hello World - Vite + React
 
-An example of how to deploy a Vite + React App on Kinsta App Hosting services.
+An example of how to deploy a Vite + React App on Kinsta Hosting.
 
 ---
 Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. You can focus on coding and building, and we'll take care of deployments with fast, scalable hosting. 
