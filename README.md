@@ -1,10 +1,10 @@
-![React](https://user-images.githubusercontent.com/2342458/234303761-7e0066a0-f043-4302-8784-756614761917.png)
 # Kinsta - Hello World - Vite + React
 
 An example of how to deploy a Vite + React App on Kinsta Hosting.
 
 ---
-Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. You can focus on coding and building, and we'll take care of deployments with fast, scalable hosting. 
+
+Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. You can focus on coding and building, and we'll take care of deployments with fast, scalable hosting.
 
 At Kinsta, Static Sites are free, and you can host up to 100 sites on your account for completely free.
 
@@ -18,6 +18,7 @@ If you only have a Static Site Hosting account, we have detailed [Static Site Ho
 - [Static Site Hosting](https://kinsta.com/static-site-hosting)
 
 ## Setup
+
 <details>
 <summary><strong>Static Site Hosting</strong> [click to expand]</summary>
   
@@ -28,16 +29,16 @@ Kinsta automatically installs dependencies defined in your `package.json` file d
 ### Setting the Build Command, Node version, and Publish directory
 
 After connecting the repository, **Static Site Hosting** will automatically try to populate all the fields with the correct values.
-|  |  |
+| | |
 |---|---|
 | Build command | `npm run build` |
-| Node version  |  16.20  |
-| Publish directory | `dist`  |
-
+| Node version | 16.20 |
+| Publish directory | `dist` |
 
 ### Deployment Lifecycle
 
 Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit), the build command is run, followed by the deployment of the Publish Directory content.
+
 </details>
 
 <details>
@@ -58,8 +59,10 @@ When deploying an application, Kinsta automatically creates a web process based 
 ### Deployment Lifecycle
 
 Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit) the `npm install` and `npm build` commands are run.
+
 </details>
 
 ## What is React
-React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the UI in response to data changes. 
+
+React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the UI in response to data changes.
 More information is available on the [React](https://react.dev/) website.
